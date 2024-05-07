@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: [My Blog](https://goldenblogathon.com)
 weight: 100
 ---
