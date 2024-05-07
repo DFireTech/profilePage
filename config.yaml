@@ -9,7 +9,7 @@ params:
   description: Profile Page
   copyright: >-
     powered by [hugo](https://gohugo.io/) & deployed on
-    [Cloudflare](https://www.cloudflare.com/)
+    [Netlify](https://www.netlify.com/)
   theme:
     mainTheme: dark
     showAttribute: true
@@ -21,7 +21,7 @@ params:
               <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
               <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
               <link rel="manifest" href="site.webmanifest">
-              <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
+              <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
@@ -65,7 +65,8 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I am an avid learner and a passionate F/LOSS advocate.
+    description: -|
+ I am an avid learner and a passionate F/LOSS advocate.
   experience:
     title: Experiences
     icon: fas fa-briefcase
