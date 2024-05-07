@@ -1,4 +1,4 @@
 ---
-title: [My Blog](https://goldenblogathon.com)
+title: My Blog
 weight: 100
 ---
