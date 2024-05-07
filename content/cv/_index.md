@@ -1,4 +1,4 @@
 ---
 title: My Curriculum Vitae
-url: https://cv.mkitterman.link
+url: cv.mkitterman.link
 ---
