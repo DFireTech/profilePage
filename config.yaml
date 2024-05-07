@@ -1,6 +1,6 @@
 baseURL: https://mkitterman.link
 languageCode: en-us
-theme: aafu
+#theme: aafu
 build:
   writeStats: true
 params:
