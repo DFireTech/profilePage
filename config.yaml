@@ -56,7 +56,8 @@ params:
   showInAccordion:
     - item: aboutme
       expand: true
-   # - item: experience
+    - item: experience
+      expand: true
    # - item: education
    # - item: publication
    # - item: project
@@ -66,9 +67,10 @@ params:
     title: About Me
     icon: fas fa-user
     description: |
-      I am an avid learner and a passionate F/LOSS advocate.
+      I am an avid learner and a passionate F/LOSS advocate. 
       In my day-to-day, I am a courier of sorts and do my best to learn even a little bit.
       One day, I hope to be working in open source in some capacity!
+      My Curriculum Vitae is linked above if you are interested in getting to know me a bit better. 
   experience:
     title: Experiences
     icon: fas fa-briefcase
